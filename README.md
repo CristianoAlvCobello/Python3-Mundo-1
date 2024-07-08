@@ -1,6 +1,6 @@
 # Python3-Mundo-1   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
 
-# Exercícios de Python3 do Mundo 1 do Curso em Vídeo, de Gustavo Guanabara.
+## Exercícios de Python3 do Mundo 1 do Curso em Vídeo, de Gustavo Guanabara.
 
 ## Lista de Exercícios
 
